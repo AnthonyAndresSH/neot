@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790009086104",
+    "project_id": "app-neot",
+    "storage_bucket": "app-neot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790009086104:android:80344038872cc7935890ed",
+        "android_client_info": {
+          "package_name": "com.example.neot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKOKnfs5s6SpugL0uf4Ds8t_24QVGw5BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

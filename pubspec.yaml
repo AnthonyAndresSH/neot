@@ -1,0 +1,49 @@
+name: neot
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.4.0
+  cloud_firestore: ^4.5.0
+  image_picker: ^0.8.5+3
+  firebase_storage: ^11.0.0
+  carousel_slider: ^4.0.0
+  flutter_screenutil: ^5.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/image/start/start.jpg
+    - lib/assets/image/logo/logo-color.png
+    - lib/assets/image/adventure/adventure1.jpg
+    - lib/assets/image/adventure/adventure2.jpg
+    - lib/assets/image/adventure/adventure3.jpg
+    - lib/assets/image/adventure/adventure4.jpg
+    - lib/assets/image/adventure/adventure5.jpg
+    - lib/assets/image/adventure/adventure6.jpg
+    - lib/assets/image/adventure/adventure7.jpg
+    - lib/assets/image/adventure/adventure8.jpg
+    - lib/assets/image/adventure/adventure9.jpg
+    - lib/assets/image/adventure/adventure10.jpg
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: lib/assets/fonts/Montserrat-Regular.ttf
+    - family: SF UI Display
+      fonts:
+        - asset: lib/assets/fonts/SFUIDisplay-Regular.ttf
